@@ -1,0 +1,6 @@
+brian2
+snntorch
+torch
+torchvision
+numpy
+matplotlib
